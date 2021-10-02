@@ -27,13 +27,13 @@
 #IfWinActive Oxygen Not Included
 ; shift a - roll left dupe
 +a::
-    rollSkillAndInterest(1, "building_digging1.png", "handy1.png")
+    rollSkillAndInterest(1, "building_digging1.png", "mole_hands1.png")
     return
 
 #IfWinActive Oxygen Not Included
 ; shift s - roll middle dupe
 +s::
-    rollSkillAndInterest(2, "building_digging2.png", "handy2.png")
+    rollSkillAndInterest(2, "building_digging2.png", "mole_hands2.png")
     return
 
 ; -------------------------------------------------
